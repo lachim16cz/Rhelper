@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Rhelper
+## Notes: Simple timer for pull or break
+## Author: Blackytauru | www.michalmasarik.cz/addons
+## Version: 1.2
+##
+## Special thanks: Aermae - Communication with DBM addon
+
+
+main.lua
