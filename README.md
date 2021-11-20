@@ -3,11 +3,8 @@ It is basic chat addon which add few more chat commands to start counters for Br
 
 ## Commands
 /pull <seconds | 0-300>
-
 /break <minutes | 0-60>
-
 /rclear *clear all counters*
-
 /rinfo
 
 ## How it works?
