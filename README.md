@@ -1,6 +1,9 @@
 # Rhelper
 It is basic chat addon which add few more chat commands to start counters for Break or Pull.
 
+## Game version
+World of Warcraft: Wrath of the Lich King (3.3.5a)
+
 ## Commands
 ```
 /pull <seconds | 0-300>
