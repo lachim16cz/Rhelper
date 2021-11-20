@@ -2,10 +2,12 @@
 It is basic chat addon which add few more chat commands to start counters for Break or Pull.
 
 ## Commands
+```
 /pull <seconds | 0-300>
 /break <minutes | 0-60>
-/rclear *clear all counters*
+/rclear
 /rinfo
+```
 
 ## How it works?
 For example, you can write to your chat: **/pull 20**
